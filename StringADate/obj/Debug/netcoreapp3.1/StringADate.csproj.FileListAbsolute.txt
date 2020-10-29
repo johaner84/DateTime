@@ -1,0 +1,13 @@
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.exe
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.deps.json
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.runtimeconfig.json
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.runtimeconfig.dev.json
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.dll
+C:\Users\jerosario\source\repos\StringADate\StringADate\bin\Debug\netcoreapp3.1\StringADate.pdb
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.csprojAssemblyReference.cache
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.AssemblyInfoInputs.cache
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.AssemblyInfo.cs
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.csproj.CoreCompileInputs.cache
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.dll
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.pdb
+C:\Users\jerosario\source\repos\StringADate\StringADate\obj\Debug\netcoreapp3.1\StringADate.genruntimeconfig.cache
